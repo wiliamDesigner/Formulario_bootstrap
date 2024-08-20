@@ -4,7 +4,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #4da1f5;
+    background-color: #f1f1f1;
 }
 
 #Formulario {
@@ -14,7 +14,7 @@ body, html {
     width: 100%;
     max-width: 500px;
     padding: 70px;
-    background-color: white;
+    background-color: rgb(112, 185, 253);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
