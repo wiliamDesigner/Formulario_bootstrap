@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4da1f5;
+}
+
+#Formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    padding: 70px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.form-check {
+    margin-top: 15px;
+}
+
+button.btn {
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(6, 255, 101);
+    border: none;
+}
+
+label {
+    font-weight: bold;
+}
